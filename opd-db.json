@@ -1,0 +1,552 @@
+{
+  "doctors": [
+    {
+      "id": "wRicQ-KSWeU-2we4iCVAY",
+      "name": "Dr. A - General Physician",
+      "startTime": "09:00",
+      "endTime": "11:00",
+      "slotDurationMinutes": 15,
+      "maxPatientsPerSlot": 4
+    },
+    {
+      "id": "3V5UNOy4ojYejKcXidzn3",
+      "name": "Dr. B - Orthopedics",
+      "startTime": "09:00",
+      "endTime": "11:00",
+      "slotDurationMinutes": 15,
+      "maxPatientsPerSlot": 3
+    },
+    {
+      "id": "sla0uN0syJ5A7HZDiY3VZ",
+      "name": "Dr. C - Pediatrics",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "slotDurationMinutes": 15,
+      "maxPatientsPerSlot": 4
+    }
+  ],
+  "slots": [
+    {
+      "id": "ou-5jki_p9wKsQkXcnJ8-",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "date": "2026-01-29",
+      "startTime": "09:00",
+      "endTime": "09:15",
+      "capacity": 4
+    },
+    {
+      "id": "Ta0Mrk7QjvgIPCJw9UFfo",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "date": "2026-01-29",
+      "startTime": "09:15",
+      "endTime": "09:30",
+      "capacity": 4
+    },
+    {
+      "id": "AEvJscffuGb36rsutI7H6",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "date": "2026-01-29",
+      "startTime": "09:30",
+      "endTime": "09:45",
+      "capacity": 4
+    },
+    {
+      "id": "z3YiHX3JPIsdUY7tjBBev",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "date": "2026-01-29",
+      "startTime": "09:45",
+      "endTime": "10:00",
+      "capacity": 4
+    },
+    {
+      "id": "anizPkn8fkHENbhzXmSOy",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "date": "2026-01-29",
+      "startTime": "10:00",
+      "endTime": "10:15",
+      "capacity": 4
+    },
+    {
+      "id": "g9ciB7wUXjXIML-4NB9ja",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "date": "2026-01-29",
+      "startTime": "10:15",
+      "endTime": "10:30",
+      "capacity": 4
+    },
+    {
+      "id": "TYNu42hUX43zl8j1P_WuK",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "date": "2026-01-29",
+      "startTime": "10:30",
+      "endTime": "10:45",
+      "capacity": 4
+    },
+    {
+      "id": "cHICmP8MO9fb3eXG6FzIi",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "date": "2026-01-29",
+      "startTime": "10:45",
+      "endTime": "11:00",
+      "capacity": 4
+    },
+    {
+      "id": "jH8NEASbJPKQGOGJ4dmSt",
+      "doctorId": "3V5UNOy4ojYejKcXidzn3",
+      "date": "2026-01-29",
+      "startTime": "09:00",
+      "endTime": "09:15",
+      "capacity": 3
+    },
+    {
+      "id": "YX-lPwlyFqd_yX0uDr-Nl",
+      "doctorId": "3V5UNOy4ojYejKcXidzn3",
+      "date": "2026-01-29",
+      "startTime": "09:15",
+      "endTime": "09:30",
+      "capacity": 3
+    },
+    {
+      "id": "uZIVRD6XJSEbltKT-PN8V",
+      "doctorId": "3V5UNOy4ojYejKcXidzn3",
+      "date": "2026-01-29",
+      "startTime": "09:30",
+      "endTime": "09:45",
+      "capacity": 3
+    },
+    {
+      "id": "-rlzw_oeU_ORdLgwsZ4KE",
+      "doctorId": "3V5UNOy4ojYejKcXidzn3",
+      "date": "2026-01-29",
+      "startTime": "09:45",
+      "endTime": "10:00",
+      "capacity": 3
+    },
+    {
+      "id": "5pyhpEQqmXLhTGEMYEfd4",
+      "doctorId": "3V5UNOy4ojYejKcXidzn3",
+      "date": "2026-01-29",
+      "startTime": "10:00",
+      "endTime": "10:15",
+      "capacity": 3
+    },
+    {
+      "id": "bxu12Iheru1azY5ypvFal",
+      "doctorId": "3V5UNOy4ojYejKcXidzn3",
+      "date": "2026-01-29",
+      "startTime": "10:15",
+      "endTime": "10:30",
+      "capacity": 3
+    },
+    {
+      "id": "Ws3vfxp7PO0stxYYHGajs",
+      "doctorId": "3V5UNOy4ojYejKcXidzn3",
+      "date": "2026-01-29",
+      "startTime": "10:30",
+      "endTime": "10:45",
+      "capacity": 3
+    },
+    {
+      "id": "K-GXVVPDxbL_71TD_BiTY",
+      "doctorId": "3V5UNOy4ojYejKcXidzn3",
+      "date": "2026-01-29",
+      "startTime": "10:45",
+      "endTime": "11:00",
+      "capacity": 3
+    },
+    {
+      "id": "SLVnheQJLkQ2sYLv6tX3c",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "date": "2026-01-29",
+      "startTime": "10:00",
+      "endTime": "10:15",
+      "capacity": 4
+    },
+    {
+      "id": "Ia7r-sSZq4469n9xxRZhV",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "date": "2026-01-29",
+      "startTime": "10:15",
+      "endTime": "10:30",
+      "capacity": 4
+    },
+    {
+      "id": "a7aPz63Hef_ac6u12uQK_",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "date": "2026-01-29",
+      "startTime": "10:30",
+      "endTime": "10:45",
+      "capacity": 4
+    },
+    {
+      "id": "vlhfo23-tWG--NltV1i6q",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "date": "2026-01-29",
+      "startTime": "10:45",
+      "endTime": "11:00",
+      "capacity": 4
+    },
+    {
+      "id": "mmfFd8vrwGIljuZ9Jxpkq",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "date": "2026-01-29",
+      "startTime": "11:00",
+      "endTime": "11:15",
+      "capacity": 4
+    },
+    {
+      "id": "HRV-BWSzYoZmivm3QcP2y",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "date": "2026-01-29",
+      "startTime": "11:15",
+      "endTime": "11:30",
+      "capacity": 4
+    },
+    {
+      "id": "fystefOoC5O5BcDwOoKpN",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "date": "2026-01-29",
+      "startTime": "11:30",
+      "endTime": "11:45",
+      "capacity": 4
+    },
+    {
+      "id": "u8TiGTXZ6JfQ37jQTfL8y",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "date": "2026-01-29",
+      "startTime": "11:45",
+      "endTime": "12:00",
+      "capacity": 4
+    },
+    {
+      "id": "0xj-_8v20wKqdmu6C4SaD",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "date": "2026-01-28",
+      "startTime": "10:00",
+      "endTime": "10:15",
+      "capacity": 4
+    },
+    {
+      "id": "ZbroIZiVdYEqOwndB4kFI",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "date": "2026-01-28",
+      "startTime": "10:15",
+      "endTime": "10:30",
+      "capacity": 4
+    },
+    {
+      "id": "x52vaoWSJBFFkmaUKXi5H",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "date": "2026-01-28",
+      "startTime": "10:30",
+      "endTime": "10:45",
+      "capacity": 4
+    },
+    {
+      "id": "GO3Xvl1LDuk4beLwHUDiq",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "date": "2026-01-28",
+      "startTime": "10:45",
+      "endTime": "11:00",
+      "capacity": 4
+    },
+    {
+      "id": "4pczNxhlmaegI_cSciUgZ",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "date": "2026-01-28",
+      "startTime": "11:00",
+      "endTime": "11:15",
+      "capacity": 4
+    },
+    {
+      "id": "0C1UVeYLyFsmEn8zz12vO",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "date": "2026-01-28",
+      "startTime": "11:15",
+      "endTime": "11:30",
+      "capacity": 4
+    },
+    {
+      "id": "1G2cmV_QdgFRsHNqvbHSW",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "date": "2026-01-28",
+      "startTime": "11:30",
+      "endTime": "11:45",
+      "capacity": 4
+    },
+    {
+      "id": "vXFjQK57P4NCWafOwEiqL",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "date": "2026-01-28",
+      "startTime": "11:45",
+      "endTime": "12:00",
+      "capacity": 4
+    }
+  ],
+  "tokens": [
+    {
+      "id": "CNlFv0wVAbE_MqEUyuNQI",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "slotId": "ou-5jki_p9wKsQkXcnJ8-",
+      "date": "2026-01-29",
+      "patientName": "Online Patient G1",
+      "source": "ONLINE",
+      "priorityScore": 2,
+      "status": "CANCELLED",
+      "createdAt": "2026-01-28T17:14:03.772Z"
+    },
+    {
+      "id": "lADkL04g3iC4C-fl8di14",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "slotId": "ou-5jki_p9wKsQkXcnJ8-",
+      "date": "2026-01-29",
+      "patientName": "Online Patient G2",
+      "source": "ONLINE",
+      "priorityScore": 2,
+      "status": "NO_SHOW",
+      "createdAt": "2026-01-28T17:14:03.772Z"
+    },
+    {
+      "id": "KompC7eWaoBPD88yEgdMd",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "slotId": "ou-5jki_p9wKsQkXcnJ8-",
+      "date": "2026-01-29",
+      "patientName": "Online Patient G3",
+      "source": "ONLINE",
+      "priorityScore": 2,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.772Z"
+    },
+    {
+      "id": "dlmh-vCCTIMC0wy2QyKJK",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "slotId": "ou-5jki_p9wKsQkXcnJ8-",
+      "date": "2026-01-29",
+      "patientName": "Online Patient G4",
+      "source": "ONLINE",
+      "priorityScore": 2,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.772Z"
+    },
+    {
+      "id": "YhZGCqVWzrOV5PnaOHjU1",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "slotId": "ou-5jki_p9wKsQkXcnJ8-",
+      "date": "2026-01-29",
+      "patientName": "Online Patient G5",
+      "source": "ONLINE",
+      "priorityScore": 2,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.772Z"
+    },
+    {
+      "id": "SWQCxqWtbxh_b4QymNCGI",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "slotId": "ou-5jki_p9wKsQkXcnJ8-",
+      "date": "2026-01-29",
+      "patientName": "Online Patient G6",
+      "source": "ONLINE",
+      "priorityScore": 2,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.772Z"
+    },
+    {
+      "id": "4QvoYdL3WWrugnu-KNIB2",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "slotId": "Ta0Mrk7QjvgIPCJw9UFfo",
+      "date": "2026-01-29",
+      "patientName": "Online Patient G7",
+      "source": "ONLINE",
+      "priorityScore": 2,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.772Z"
+    },
+    {
+      "id": "V5XWzo7cWlqhcAgU3o2IV",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "slotId": "Ta0Mrk7QjvgIPCJw9UFfo",
+      "date": "2026-01-29",
+      "patientName": "Online Patient G8",
+      "source": "ONLINE",
+      "priorityScore": 2,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.772Z"
+    },
+    {
+      "id": "EzSuPw5XHTYQYH0ng9924",
+      "doctorId": "3V5UNOy4ojYejKcXidzn3",
+      "slotId": "jH8NEASbJPKQGOGJ4dmSt",
+      "date": "2026-01-29",
+      "patientName": "Paid Ortho P1",
+      "source": "PAID",
+      "priorityScore": 4,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.772Z"
+    },
+    {
+      "id": "2OTa7FCMlxAlkyJiXRk8Z",
+      "doctorId": "3V5UNOy4ojYejKcXidzn3",
+      "slotId": "jH8NEASbJPKQGOGJ4dmSt",
+      "date": "2026-01-29",
+      "patientName": "Paid Ortho P2",
+      "source": "PAID",
+      "priorityScore": 4,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.772Z"
+    },
+    {
+      "id": "bty6ijsjvDDByTty18Slj",
+      "doctorId": "3V5UNOy4ojYejKcXidzn3",
+      "slotId": "jH8NEASbJPKQGOGJ4dmSt",
+      "date": "2026-01-29",
+      "patientName": "Paid Ortho P3",
+      "source": "PAID",
+      "priorityScore": 4,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.773Z"
+    },
+    {
+      "id": "wFZPkqpZjeYtdgpZNclO0",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "slotId": "AEvJscffuGb36rsutI7H6",
+      "date": "2026-01-29",
+      "patientName": "Walk-in 1",
+      "source": "WALK_IN",
+      "priorityScore": 1,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.773Z"
+    },
+    {
+      "id": "kd8xrPwiHsICIj1y9LQD6",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "slotId": "SLVnheQJLkQ2sYLv6tX3c",
+      "date": "2026-01-29",
+      "patientName": "Walk-in 2",
+      "source": "WALK_IN",
+      "priorityScore": 1,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.773Z"
+    },
+    {
+      "id": "ThK2m0M8ym7OJue6C57kH",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "slotId": "AEvJscffuGb36rsutI7H6",
+      "date": "2026-01-29",
+      "patientName": "Walk-in 3",
+      "source": "WALK_IN",
+      "priorityScore": 1,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.773Z"
+    },
+    {
+      "id": "8LXiDCNhsicYIw77Ot3Zr",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "slotId": "SLVnheQJLkQ2sYLv6tX3c",
+      "date": "2026-01-29",
+      "patientName": "Walk-in 4",
+      "source": "WALK_IN",
+      "priorityScore": 1,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.773Z"
+    },
+    {
+      "id": "w0bF55YIOFdDHPLYssaAd",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "slotId": "AEvJscffuGb36rsutI7H6",
+      "date": "2026-01-29",
+      "patientName": "Walk-in 5",
+      "source": "WALK_IN",
+      "priorityScore": 1,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.773Z"
+    },
+    {
+      "id": "AzqPAnON-js7DOeGzzttq",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "slotId": "SLVnheQJLkQ2sYLv6tX3c",
+      "date": "2026-01-29",
+      "patientName": "Follow-up Child 1",
+      "source": "FOLLOW_UP",
+      "priorityScore": 3,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.773Z"
+    },
+    {
+      "id": "1VDXNER0CE5gAvoGMEZvv",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "slotId": "SLVnheQJLkQ2sYLv6tX3c",
+      "date": "2026-01-29",
+      "patientName": "Follow-up Child 2",
+      "source": "FOLLOW_UP",
+      "priorityScore": 3,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.773Z"
+    },
+    {
+      "id": "rew8nYgavxFmvh9dh6ID3",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "slotId": "Ia7r-sSZq4469n9xxRZhV",
+      "date": "2026-01-29",
+      "patientName": "Follow-up Child 3",
+      "source": "FOLLOW_UP",
+      "priorityScore": 3,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.773Z"
+    },
+    {
+      "id": "1NfgerLrtf1_hE2DG4Fwi",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "slotId": "Ia7r-sSZq4469n9xxRZhV",
+      "date": "2026-01-29",
+      "patientName": "Follow-up Child 4",
+      "source": "FOLLOW_UP",
+      "priorityScore": 3,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.773Z"
+    },
+    {
+      "id": "iTUPV_7LlY3rkrJepbTby",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "slotId": "Ta0Mrk7QjvgIPCJw9UFfo",
+      "date": "2026-01-29",
+      "patientName": "Emergency Case 1",
+      "source": "EMERGENCY",
+      "priorityScore": 5,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.773Z"
+    },
+    {
+      "id": "XVzvtyUDYbTIzLQlDWLLp",
+      "doctorId": "3V5UNOy4ojYejKcXidzn3",
+      "slotId": "YX-lPwlyFqd_yX0uDr-Nl",
+      "date": "2026-01-29",
+      "patientName": "Emergency Case 2",
+      "source": "EMERGENCY",
+      "priorityScore": 5,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.773Z"
+    },
+    {
+      "id": "qJBn68ahEuop0bxdA46mn",
+      "doctorId": "wRicQ-KSWeU-2we4iCVAY",
+      "slotId": "Ta0Mrk7QjvgIPCJw9UFfo",
+      "date": "2026-01-29",
+      "patientName": "Emergency Case 3",
+      "source": "EMERGENCY",
+      "priorityScore": 5,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:03.774Z"
+    },
+    {
+      "id": "SERSdV5F0gvtTa4_BlzBM",
+      "doctorId": "sla0uN0syJ5A7HZDiY3VZ",
+      "slotId": "0xj-_8v20wKqdmu6C4SaD",
+      "date": "2026-01-28",
+      "patientName": "she",
+      "source": "ONLINE",
+      "priorityScore": 2,
+      "status": "SCHEDULED",
+      "createdAt": "2026-01-28T17:14:37.092Z"
+    }
+  ]
+}
